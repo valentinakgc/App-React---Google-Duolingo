@@ -1,1 +1,1 @@
-# App-React---Google-Duolingo
+# AppReact-Google-Duolingo
